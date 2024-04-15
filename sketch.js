@@ -20,7 +20,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas3D(600, 400);
+  createCanvas(windowWidth, windowHeight);
   environment(sky_t, false);
   hideGrid();
   diffuse("#1E6E1E");
