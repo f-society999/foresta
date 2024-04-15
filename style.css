@@ -13,4 +13,5 @@ section.presentation {
   color : purple;
   font-size : 1.8rem;
   font-family : 'Courier New', Courier, monospace;
+  text-align : center;
 }
