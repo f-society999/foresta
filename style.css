@@ -6,3 +6,10 @@ html, body {
 canvas {
   display: block;
 }
+
+section.presentation {
+  position : absolute;
+  top : 100px;
+  color : #ffffff;
+  font-size : 1.8rem;
+}
