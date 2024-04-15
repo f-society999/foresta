@@ -20,7 +20,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas3D(600, 400);
+  createCanvas3D(windowWidth, windowHeight);
+  getOrbit().autoRotate = true;
   environment(sky_t, false);
   hideGrid();
   diffuse("#1E6E1E");
