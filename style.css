@@ -10,6 +10,7 @@ canvas {
 section.presentation {
   position : absolute;
   top : 100px;
-  color : #ffffff;
+  color : purple;
   font-size : 1.8rem;
+  font-family: 'Courier New', Courier, monospace;
 }
