@@ -53,3 +53,8 @@ function draw() {
   // 🔍 Never create objects here, but don't forget to have it in your code:
   // leave empty for the moment
 }
+
+
+function windowResized() {
+  resizeCanvas3D(windowWidth,windowHeight);
+}
