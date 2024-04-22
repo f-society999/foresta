@@ -9,9 +9,8 @@ canvas {
 
 section.presentation {
   position : absolute;
+  text-align: center;
   top : 100px;
-  width: auto;
-  height: 15%;
 }
 
 h1 {
