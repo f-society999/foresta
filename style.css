@@ -13,7 +13,7 @@ canvas {
   top: 0%;
   height: 10%;
   width: 100%;
-  background-image: radial-gradient(circle, red, yellow, green);
+  background-image: radial-gradient(circle, #10439F, #874CCC, #C65BCF);
 }
 
 h1.presentation
