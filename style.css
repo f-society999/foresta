@@ -7,10 +7,11 @@ canvas {
   display: block;
 }
 
-section.presentation {
+.presentation {
   position : absolute;
   text-align: center;
   top : 100px;
+  background-image:  radial-gradient(circle, red, yellow, green);
 }
 
 #main_title
@@ -20,5 +21,4 @@ section.presentation {
   font-size : 1.8rem;
   font-family : 'Courier New', Courier, monospace;
   text-align : center;
-  background-image:  radial-gradient(circle, red, yellow, green);
 }
