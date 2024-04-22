@@ -14,11 +14,10 @@ canvas {
   background-image:  radial-gradient(circle, red, yellow, green);
 }
 
-#main_title
+h1.presentation
 {
   text-align: center;
   color : rgb(0, 0, 0);
   font-size : 1.8rem;
   font-family : 'Courier New', Courier, monospace;
-  text-align : center;
 }
