@@ -10,6 +10,8 @@ canvas {
 section.presentation {
   position : absolute;
   top : 100px;
+  width: auto;
+  height: 15%;
 }
 
 h1 {
